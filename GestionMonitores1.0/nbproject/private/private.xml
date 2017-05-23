@@ -2,6 +2,34 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/jsp/registro/postularMonitor.jsp</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/entidades/Estudiante.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Controlador/ControladorRegistro.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/consultas/ConsultasAutenticacion.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/jsp/registro/mensaje2.jsp</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/dispatcher-servlet.xml</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/entidades/Coordinador.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/entidades/Profesor.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/controles/ControlConsultas.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/datos/Conexion.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/controles/ControlUsuario.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/consultas/ConsultasRegistro.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/entidades/Monitor.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/jsp/registro/registrar.jsp</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/jsp/registro/registrarEstudiantesConMonitoria.jsp</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/entidades/UnidadEnseñanza.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/entidades/Usuario.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/jsp/autenticacion/acceso.jsp</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/jsp/registro/registrarReunion.jsp</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Controlador/Controlador.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/jsp/menu.jsp</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/redirect.jsp</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Controlador/ControladorAutenticacion.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/src/java/Modelo/consultas/Consultas.java</file>
+            <file>file:/C:/Users/Desarollo1/Documents/NetBeansProjects/GestionMonitores1.0/web/WEB-INF/jsp/registro/ofertarMonitor.jsp</file>
+        </group>
     </open-files>
 </project-private>
